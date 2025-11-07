@@ -1,0 +1,3 @@
+- [x] Update LessonScreen.js to add responsive columns based on screen width (3 columns for >600px, 2 for >400px, 1 otherwise)
+- [x] Adjust WordItem.js styles to fit in grid layout (add flex: 1, adjust margins)
+- [ ] Test the layout on different screen sizes

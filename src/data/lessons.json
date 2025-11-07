@@ -1,0 +1,488 @@
+{
+  "categories": [
+    {
+      "name": "Alphabets",
+      "arabic_name": "الحروف الهجائية",
+      "lessons": [
+        { "english": "A", "arabic": "ا", "transliteration": "alif" },
+        { "english": "B", "arabic": "ب", "transliteration": "baa" },
+        { "english": "T", "arabic": "ت", "transliteration": "taa" },
+        { "english": "Th", "arabic": "ث", "transliteration": "thaa" },
+        { "english": "J", "arabic": "ج", "transliteration": "jeem" },
+        { "english": "H", "arabic": "ح", "transliteration": "haa" },
+        { "english": "Kh", "arabic": "خ", "transliteration": "khaa" }
+      ]
+    },
+    {
+      "name": "Arabic Letters Signs",
+      "arabic_name": "علامات الحروف العربية",
+      "lessons": [
+        { "english": "Hamza", "arabic": "ء", "transliteration": "hamza" },
+        { "english": "Maddah", "arabic": "آ", "transliteration": "maddah" },
+        { "english": "Ta Marbuta", "arabic": "ة", "transliteration": "ta marbuta" },
+        { "english": "Alif Maqsura", "arabic": "ى", "transliteration": "alif maqsura" },
+        { "english": "Waw", "arabic": "و", "transliteration": "waw" },
+        { "english": "Ya", "arabic": "ي", "transliteration": "ya" },
+        { "english": "Shadda", "arabic": "ّ", "transliteration": "shadda" }
+      ]
+    },
+    {
+      "name": "2-Letter Words",
+      "arabic_name": "كلمات من حرفين",
+      "lessons": [
+        { "english": "He", "arabic": "هو", "transliteration": "huwa" },
+        { "english": "In", "arabic": "في", "transliteration": "fi" },
+        { "english": "On", "arabic": "على", "transliteration": "ala" },
+        { "english": "To", "arabic": "إلى", "transliteration": "ila" },
+        { "english": "No", "arabic": "لا", "transliteration": "la" },
+        { "english": "And", "arabic": "و", "transliteration": "wa" },
+        { "english": "God", "arabic": "الله", "transliteration": "allah" }
+      ]
+    },
+    {
+      "name": "3-Letter Words",
+      "arabic_name": "كلمات من ثلاثة أحرف",
+      "lessons": [
+        { "english": "Book", "arabic": "كتاب", "transliteration": "kitaab" },
+        { "english": "Lord", "arabic": "رب", "transliteration": "rabb" },
+        { "english": "Day", "arabic": "يوم", "transliteration": "yawm" },
+        { "english": "Night", "arabic": "ليل", "transliteration": "layl" },
+        { "english": "Light", "arabic": "نور", "transliteration": "nur" },
+        { "english": "Path", "arabic": "صراط", "transliteration": "siraat" },
+        { "english": "Truth", "arabic": "حق", "transliteration": "haqq" }
+      ]
+    },
+    {
+      "name": "Numbers",
+      "arabic_name": "الأرقام",
+      "lessons": [
+        { "english": "One", "arabic": "واحد", "transliteration": "waahid" },
+        { "english": "Two", "arabic": "اثنان", "transliteration": "ithnayn" },
+        { "english": "Three", "arabic": "ثلاثة", "transliteration": "thalaatha" },
+        { "english": "Four", "arabic": "أربعة", "transliteration": "arba‘a" },
+        { "english": "Five", "arabic": "خمسة", "transliteration": "khamsa" },
+        { "english": "Six", "arabic": "ستة", "transliteration": "sitta" },
+        { "english": "Seven", "arabic": "سبعة", "transliteration": "sab‘a" },
+        { "english": "Eight", "arabic": "ثمانية", "transliteration": "thamaaniya" },
+        { "english": "Nine", "arabic": "تسعة", "transliteration": "tis‘a" },
+        { "english": "Ten", "arabic": "عشرة", "transliteration": "‘ashara" }
+      ]
+    },
+    {
+      "name": "4-Letter Words",
+      "arabic_name": "كلمات من أربعة أحرف",
+      "lessons": [
+        { "english": "Mercy", "arabic": "رحمة", "transliteration": "rahmah" },
+        { "english": "Peace", "arabic": "سلام", "transliteration": "salaam" },
+        { "english": "Faith", "arabic": "إيمان", "transliteration": "imaan" },
+        { "english": "Prayer", "arabic": "صلاة", "transliteration": "salaah" },
+        { "english": "Quran", "arabic": "قرآن", "transliteration": "qur'an" },
+        { "english": "Angel", "arabic": "ملك", "transliteration": "malak" },
+        { "english": "Heaven", "arabic": "جنة", "transliteration": "jannah" }
+      ]
+    },
+    {
+      "name": "5-Letter Words",
+      "arabic_name": "كلمات من خمسة أحرف",
+      "lessons": [
+        { "english": "Prophet", "arabic": "نبي", "transliteration": "nabiyy" },
+        { "english": "Messengers", "arabic": "رسل", "transliteration": "rusul" },
+        { "english": "Scripture", "arabic": "كتاب", "transliteration": "kitaab" },
+        { "english": "Creation", "arabic": "خلق", "transliteration": "khalq" },
+        { "english": "Knowledge", "arabic": "علم", "transliteration": "ilm" },
+        { "english": "Wisdom", "arabic": "حكمة", "transliteration": "hikmah" },
+        { "english": "Justice", "arabic": "عدل", "transliteration": "adl" }
+      ]
+    },
+    {
+      "name": "6-Letter Words",
+      "arabic_name": "كلمات من ستة أحرف",
+      "lessons": [
+        { "english": "Believer", "arabic": "مؤمن", "transliteration": "mu'min" },
+        { "english": "Disbeliever", "arabic": "كافر", "transliteration": "kafir" },
+        { "english": "Forgiveness", "arabic": "غفران", "transliteration": "ghufran" },
+        { "english": "Patience", "arabic": "صبر", "transliteration": "sabr" },
+        { "english": "Charity", "arabic": "صدقة", "transliteration": "sadaqah" },
+        { "english": "Paradise", "arabic": "جنات", "transliteration": "jannat" },
+        { "english": "Hellfire", "arabic": "نار", "transliteration": "nar" }
+      ]
+    },
+    {
+      "name": "7-Letter Words",
+      "arabic_name": "كلمات من سبعة أحرف",
+      "lessons": [
+        { "english": "Compassion", "arabic": "رحمان", "transliteration": "rahman" },
+        { "english": "Merciful", "arabic": "رحيم", "transliteration": "raheem" },
+        { "english": "Guidance", "arabic": "هدى", "transliteration": "huda" },
+        { "english": "Success", "arabic": "فلاح", "transliteration": "falah" },
+        { "english": "Blessing", "arabic": "بركة", "transliteration": "barakah" },
+        { "english": "Protection", "arabic": "حفظ", "transliteration": "hifz" },
+        { "english": "Purification", "arabic": "طهور", "transliteration": "tahoor" }
+      ]
+    },
+    {
+      "name": "Greetings",
+      "arabic_name": "التحيات",
+      "lessons": [
+        { "english": "Hello", "arabic": "مرحبا", "transliteration": "marhaban" },
+        { "english": "Peace be upon you", "arabic": "السلام عليكم", "transliteration": "assalamu alaykum" },
+        { "english": "And peace be upon you too", "arabic": "وعليكم السلام", "transliteration": "wa alaykum assalam" },
+        { "english": "Good morning", "arabic": "صباح الخير", "transliteration": "sabah al-khayr" },
+        { "english": "Good evening", "arabic": "مساء الخير", "transliteration": "masa' al-khayr" },
+        { "english": "Good night", "arabic": "تصبح على خير", "transliteration": "tusbah ala khayr" },
+        { "english": "Goodbye", "arabic": "وداعا", "transliteration": "wada‘an" }
+      ]
+    },
+    {
+      "name": "8-Letter Words",
+      "arabic_name": "كلمات من ثمانية أحرف",
+      "lessons": [
+        { "english": "Righteous", "arabic": "صالح", "transliteration": "saalih" },
+        { "english": "Sinners", "arabic": "مذنبين", "transliteration": "mudhnibeen" },
+        { "english": "Repentance", "arabic": "توبة", "transliteration": "tawbah" },
+        { "english": "Obedience", "arabic": "طاعة", "transliteration": "taa'ah" },
+        { "english": "Disobedience", "arabic": "معصية", "transliteration": "ma'siyah" },
+        { "english": "Resurrection", "arabic": "بعث", "transliteration": "ba'th" },
+        { "english": "Judgment", "arabic": "حساب", "transliteration": "hisab" }
+      ]
+    },
+    {
+      "name": "9-Letter Words",
+      "arabic_name": "كلمات من تسعة أحرف",
+      "lessons": [
+        { "english": "Compassionate", "arabic": "الرحمن", "transliteration": "ar-rahman" },
+        { "english": "Most Merciful", "arabic": "الرحيم", "transliteration": "ar-raheem" },
+        { "english": "Beneficent", "arabic": "المنعم", "transliteration": "al-mun'im" },
+        { "english": "Forgiver", "arabic": "الغفور", "transliteration": "al-ghafur" },
+        { "english": "Protector", "arabic": "الحفيظ", "transliteration": "al-hafiz" },
+        { "english": "All-Knowing", "arabic": "العليم", "transliteration": "al-aleem" },
+        { "english": "All-Powerful", "arabic": "القدير", "transliteration": "al-qadeer" }
+      ]
+    },
+    {
+      "name": "Family",
+      "arabic_name": "العائلة",
+      "lessons": [
+        { "english": "Father", "arabic": "أب", "transliteration": "ab" },
+        { "english": "Mother", "arabic": "أم", "transliteration": "umm" },
+        { "english": "Brother", "arabic": "أخ", "transliteration": "akh" },
+        { "english": "Sister", "arabic": "أخت", "transliteration": "ukht" },
+        { "english": "Son", "arabic": "ابن", "transliteration": "ibn" },
+        { "english": "Daughter", "arabic": "ابنة", "transliteration": "ibnah" },
+        { "english": "Family", "arabic": "عائلة", "transliteration": "a'ilah" }
+      ]
+    },
+    {
+      "name": "10-Letter Words",
+      "arabic_name": "كلمات من عشرة أحرف",
+      "lessons": [
+        { "english": "Most Gracious", "arabic": "الكريم", "transliteration": "al-kareem" },
+        { "english": "All-Hearing", "arabic": "السميع", "transliteration": "as-samee'" },
+        { "english": "All-Seeing", "arabic": "البصير", "transliteration": "al-baseer" },
+        { "english": "The Truth", "arabic": "الحق", "transliteration": "al-haqq" },
+        { "english": "The Light", "arabic": "النور", "transliteration": "an-nur" },
+        { "english": "The Guide", "arabic": "الهادي", "transliteration": "al-haadi" },
+        { "english": "The Creator", "arabic": "الخالق", "transliteration": "al-khaaliq" }
+      ]
+    },
+    {
+      "name": "Colors",
+      "arabic_name": "الألوان",
+      "lessons": [
+        { "english": "Red", "arabic": "أحمر", "transliteration": "ahmar" },
+        { "english": "Blue", "arabic": "أزرق", "transliteration": "azraq" },
+        { "english": "Green", "arabic": "أخضر", "transliteration": "akhḍar" },
+        { "english": "Yellow", "arabic": "أصفر", "transliteration": "asfar" },
+        { "english": "Black", "arabic": "أسود", "transliteration": "aswad" },
+        { "english": "White", "arabic": "أبيض", "transliteration": "abyad" },
+        { "english": "Brown", "arabic": "بني", "transliteration": "bunni" }
+      ]
+    },
+    {
+      "name": "11-Letter Words",
+      "arabic_name": "كلمات من أحد عشر حرفاً",
+      "lessons": [
+        { "english": "The Sustainer", "arabic": "الرزاق", "transliteration": "ar-razaaq" },
+        { "english": "The Provider", "arabic": "الرازق", "transliteration": "ar-raaziq" },
+        { "english": "The Healer", "arabic": "الشافي", "transliteration": "ash-shaafi" },
+        { "english": "The Loving", "arabic": "الودود", "transliteration": "al-wadood" },
+        { "english": "The Majestic", "arabic": "الجليل", "transliteration": "al-jaleel" },
+        { "english": "The Generous", "arabic": "الكريم", "transliteration": "al-kareem" },
+        { "english": "The Wise", "arabic": "الحكيم", "transliteration": "al-hakeem" }
+      ]
+    },
+    {
+      "name": "Food",
+      "arabic_name": "الطعام",
+      "lessons": [
+        { "english": "Bread", "arabic": "خبز", "transliteration": "khubz" },
+        { "english": "Rice", "arabic": "أرز", "transliteration": "aruzz" },
+        { "english": "Meat", "arabic": "لحم", "transliteration": "lahm" },
+        { "english": "Fish", "arabic": "سمك", "transliteration": "samak" },
+        { "english": "Fruit", "arabic": "فاكهة", "transliteration": "fakihah" },
+        { "english": "Vegetable", "arabic": "خضار", "transliteration": "khudar" },
+        { "english": "Water", "arabic": "ماء", "transliteration": "maa’" }
+      ]
+    },
+    {
+      "name": "12-Letter Words",
+      "arabic_name": "كلمات من اثني عشر حرفاً",
+      "lessons": [
+        { "english": "The Forgiving", "arabic": "الغفور", "transliteration": "al-ghafur" },
+        { "english": "The Thankful", "arabic": "الشكور", "transliteration": "ash-shakur" },
+        { "english": "The Patient", "arabic": "الصبور", "transliteration": "as-sabur" },
+        { "english": "The Just", "arabic": "العدل", "transliteration": "al-adl" },
+        { "english": "The Peace", "arabic": "السلام", "transliteration": "as-salaam" },
+        { "english": "The Faithful", "arabic": "الأمين", "transliteration": "al-ameen" },
+        { "english": "The Guardian", "arabic": "الموكل", "transliteration": "al-muwakkal" }
+      ]
+    },
+    {
+      "name": "Days of the Week",
+      "arabic_name": "الأيام",
+      "lessons": [
+        { "english": "Sunday", "arabic": "الأحد", "transliteration": "al-ahad" },
+        { "english": "Monday", "arabic": "الاثنين", "transliteration": "al-ithnayn" },
+        { "english": "Tuesday", "arabic": "الثلاثاء", "transliteration": "ath-thulatha" },
+        { "english": "Wednesday", "arabic": "الأربعاء", "transliteration": "al-arbi‘a" },
+        { "english": "Thursday", "arabic": "الخميس", "transliteration": "al-khamees" },
+        { "english": "Friday", "arabic": "الجمعة", "transliteration": "al-jum‘ah" },
+        { "english": "Saturday", "arabic": "السبت", "transliteration": "as-sabt" }
+      ]
+    },
+    {
+      "name": "13-Letter Words",
+      "arabic_name": "كلمات من ثلاثة عشر حرفاً",
+      "lessons": [
+        { "english": "The Most High", "arabic": "العلي", "transliteration": "al-aliyy" },
+        { "english": "The Greatest", "arabic": "الأكبر", "transliteration": "al-akbar" },
+        { "english": "The Strongest", "arabic": "الأقوى", "transliteration": "al-aqwaa" },
+        { "english": "The Most Kind", "arabic": "الأحلم", "transliteration": "al-ahlam" },
+        { "english": "The Most Gentle", "arabic": "الألطف", "transliteration": "al-altuf" },
+        { "english": "The Most Loving", "arabic": "الأرحم", "transliteration": "al-arham" },
+        { "english": "The Most Wise", "arabic": "الأحكم", "transliteration": "al-ahkam" }
+      ]
+    },
+    {
+      "name": "Months of the Year",
+      "arabic_name": "الأشهر",
+      "lessons": [
+        { "english": "January", "arabic": "يناير", "transliteration": "yanaayir" },
+        { "english": "February", "arabic": "فبراير", "transliteration": "fabraayir" },
+        { "english": "March", "arabic": "مارس", "transliteration": "maariss" },
+        { "english": "April", "arabic": "أبريل", "transliteration": "abriil" },
+        { "english": "May", "arabic": "مايو", "transliteration": "maayuu" },
+        { "english": "June", "arabic": "يونيو", "transliteration": "yuuniyuu" },
+        { "english": "July", "arabic": "يوليو", "transliteration": "yuuliyuu" },
+        { "english": "August", "arabic": "أغسطس", "transliteration": "aghustus" },
+        { "english": "September", "arabic": "سبتمبر", "transliteration": "sibtambar" },
+        { "english": "October", "arabic": "أكتوبر", "transliteration": "uktubar" },
+        { "english": "November", "arabic": "نوفمبر", "transliteration": "nufambar" },
+        { "english": "December", "arabic": "ديسمبر", "transliteration": "diisambar" }
+      ]
+    },
+    {
+      "name": "14-Letter Words",
+      "arabic_name": "كلمات من أربعة عشر حرفاً",
+      "lessons": [
+        { "english": "The All-Encompassing", "arabic": "الواسع", "transliteration": "al-waasi'" },
+        { "english": "The All-Embracing", "arabic": "الواسع", "transliteration": "al-waasi'" },
+        { "english": "The Self-Sufficient", "arabic": "الغني", "transliteration": "al-ghaniyy" },
+        { "english": "The Independent", "arabic": "المغني", "transliteration": "al-mughni" },
+        { "english": "The Preventer", "arabic": "المانع", "transliteration": "al-mani'" },
+        { "english": "The Harmful", "arabic": "الضار", "transliteration": "ad-daar" },
+        { "english": "The Beneficial", "arabic": "النافع", "transliteration": "an-naafi'" }
+      ]
+    },
+    {
+      "name": "Common Verbs",
+      "arabic_name": "الأفعال",
+      "lessons": [
+        { "english": "Eat", "arabic": "يأكل", "transliteration": "ya'kul" },
+        { "english": "Drink", "arabic": "يشرب", "transliteration": "yashrab" },
+        { "english": "Go", "arabic": "يذهب", "transliteration": "yadhhab" },
+        { "english": "Come", "arabic": "يأتي", "transliteration": "ya'ti" },
+        { "english": "See", "arabic": "يرى", "transliteration": "yaraa" },
+        { "english": "Read", "arabic": "يقرأ", "transliteration": "yaqra" },
+        { "english": "Write", "arabic": "يكتب", "transliteration": "yaktub" },
+        { "english": "Sleep", "arabic": "ينام", "transliteration": "yanaam" },
+        { "english": "Work", "arabic": "يعمل", "transliteration": "ya‘mal" },
+        { "english": "Play", "arabic": "يلعب", "transliteration": "yal‘ab" }
+      ]
+    },
+    {
+      "name": "15-Letter Words",
+      "arabic_name": "كلمات من خمسة عشر حرفاً",
+      "lessons": [
+        { "english": "The First", "arabic": "الأول", "transliteration": "al-awwal" },
+        { "english": "The Last", "arabic": "الآخر", "transliteration": "al-aakhir" },
+        { "english": "The Evident", "arabic": "الظاهر", "transliteration": "az-zaahir" },
+        { "english": "The Hidden", "arabic": "الباطن", "transliteration": "al-batin" },
+        { "english": "The Protector", "arabic": "الوكيل", "transliteration": "al-wakeel" },
+        { "english": "The Trustee", "arabic": "الموكل", "transliteration": "al-muwakkal" },
+        { "english": "The Supreme", "arabic": "المتعالي", "transliteration": "al-muta'aali" }
+      ]
+    },
+    {
+      "name": "Body Parts",
+      "arabic_name": "أجزاء الجسم",
+      "lessons": [
+        { "english": "Head", "arabic": "رأس", "transliteration": "ra's" },
+        { "english": "Eye", "arabic": "عين", "transliteration": "‘ayn" },
+        { "english": "Ear", "arabic": "أذن", "transliteration": "udhun" },
+        { "english": "Nose", "arabic": "أنف", "transliteration": "anf" },
+        { "english": "Mouth", "arabic": "فم", "transliteration": "fam" },
+        { "english": "Hand", "arabic": "يد", "transliteration": "yad" },
+        { "english": "Leg", "arabic": "رجل", "transliteration": "rijl" },
+        { "english": "Foot", "arabic": "قدم", "transliteration": "qadam" },
+        { "english": "Heart", "arabic": "قلب", "transliteration": "qalb" },
+        { "english": "Face", "arabic": "وجه", "transliteration": "wajh" }
+      ]
+    },
+    {
+      "name": "16-Letter Words",
+      "arabic_name": "كلمات من ستة عشر حرفاً",
+      "lessons": [
+        { "english": "The Ever-Living", "arabic": "الحي", "transliteration": "al-hayy" },
+        { "english": "The Self-Subsisting", "arabic": "القيوم", "transliteration": "al-qayyum" },
+        { "english": "The One", "arabic": "الواحد", "transliteration": "al-wahid" },
+        { "english": "The Unique", "arabic": "الأحد", "transliteration": "al-ahad" },
+        { "english": "The Eternal", "arabic": "الأبدي", "transliteration": "al-abadi" },
+        { "english": "The Absolute", "arabic": "الصمد", "transliteration": "as-samad" },
+        { "english": "The Powerful", "arabic": "القادر", "transliteration": "al-qadir" }
+      ]
+    },
+    {
+      "name": "Places",
+      "arabic_name": "الأماكن",
+      "lessons": [
+        { "english": "House", "arabic": "بيت", "transliteration": "bayt" },
+        { "english": "School", "arabic": "مدرسة", "transliteration": "madrasa" },
+        { "english": "Mosque", "arabic": "مسجد", "transliteration": "masjid" },
+        { "english": "Market", "arabic": "سوق", "transliteration": "suq" },
+        { "english": "Hospital", "arabic": "مستشفى", "transliteration": "mustashfa" },
+        { "english": "Office", "arabic": "مكتب", "transliteration": "maktab" },
+        { "english": "Restaurant", "arabic": "مطعم", "transliteration": "mat‘am" },
+        { "english": "Park", "arabic": "حديقة", "transliteration": "hadeeqah" },
+        { "english": "City", "arabic": "مدينة", "transliteration": "madeenah" },
+        { "english": "Village", "arabic": "قرية", "transliteration": "qaryah" }
+      ]
+    },
+    {
+      "name": "17-Letter Words",
+      "arabic_name": "كلمات من سبعة عشر حرفاً",
+      "lessons": [
+        { "english": "The Compeller", "arabic": "الجبار", "transliteration": "al-jabbar" },
+        { "english": "The Generous", "arabic": "المطلب", "transliteration": "al-mutakabbir" },
+        { "english": "The Creator", "arabic": "الخالق", "transliteration": "al-khaliq" },
+        { "english": "The Inventor", "arabic": "البارئ", "transliteration": "al-bari'" },
+        { "english": "The Fashioner", "arabic": "المصور", "transliteration": "al-musawwir" },
+        { "english": "The Forgiver", "arabic": "الغفار", "transliteration": "al-ghaffar" },
+        { "english": "The Subduer", "arabic": "القهار", "transliteration": "al-qahhar" }
+      ]
+    },
+    {
+      "name": "Clothing",
+      "arabic_name": "الملابس",
+      "lessons": [
+        { "english": "Shirt", "arabic": "قميص", "transliteration": "qamees" },
+        { "english": "Trousers", "arabic": "بنطال", "transliteration": "bintal" },
+        { "english": "Dress", "arabic": "فستان", "transliteration": "fustaan" },
+        { "english": "Shoes", "arabic": "حذاء", "transliteration": "hidaa’" },
+        { "english": "Hat", "arabic": "قبعة", "transliteration": "qubba‘ah" },
+        { "english": "Jacket", "arabic": "سترة", "transliteration": "sutrah" },
+        { "english": "Coat", "arabic": "معطف", "transliteration": "mi‘taf" },
+        { "english": "Scarf", "arabic": "وشاح", "transliteration": "wishaah" },
+        { "english": "Sock", "arabic": "جورب", "transliteration": "jawrab" },
+        { "english": "Gloves", "arabic": "قفازات", "transliteration": "qufaazaat" }
+      ]
+    },
+    {
+      "name": "18-Letter Words",
+      "arabic_name": "كلمات من ثمانية عشر حرفاً",
+      "lessons": [
+        { "english": "The Expander", "arabic": "الباسط", "transliteration": "al-basit" },
+        { "english": "The Constrictor", "arabic": "القابض", "transliteration": "al-qabid" },
+        { "english": "The Exalter", "arabic": "الرافع", "transliteration": "ar-rafi'" },
+        { "english": "The Abaser", "arabic": "الخافض", "transliteration": "al-khafid" },
+        { "english": "The Bestower", "arabic": "المعطي", "transliteration": "al-mu'ti" },
+        { "english": "The Withholder", "arabic": "المانع", "transliteration": "al-mani'" },
+        { "english": "The Reckoner", "arabic": "الحسيب", "transliteration": "al-hasib" }
+      ]
+    },
+    {
+      "name": "Weather",
+      "arabic_name": "الطقس",
+      "lessons": [
+        { "english": "Sun", "arabic": "شمس", "transliteration": "shams" },
+        { "english": "Rain", "arabic": "مطر", "transliteration": "matar" },
+        { "english": "Cloud", "arabic": "سحابة", "transliteration": "sahabah" },
+        { "english": "Wind", "arabic": "رياح", "transliteration": "riyah" },
+        { "english": "Cold", "arabic": "بارد", "transliteration": "barid" },
+        { "english": "Hot", "arabic": "حار", "transliteration": "harr" },
+        { "english": "Snow", "arabic": "ثلج", "transliteration": "thalj" },
+        { "english": "Storm", "arabic": "عاصفة", "transliteration": "aasifah" },
+        { "english": "Fog", "arabic": "ضباب", "transliteration": "dabaab" },
+        { "english": "Weather", "arabic": "الطقس", "transliteration": "al-taqs" }
+      ]
+    },
+    {
+      "name": "19-Letter Words",
+      "arabic_name": "كلمات من تسعة عشر حرفاً",
+      "lessons": [
+        { "english": "The Avenger", "arabic": "المنتقم", "transliteration": "al-muntaqim" },
+        { "english": "The Pardoner", "arabic": "العفو", "transliteration": "al-afuww" },
+        { "english": "The Clement", "arabic": "الحليم", "transliteration": "al-haleem" },
+        { "english": "The Owner of Majesty", "arabic": "ذو الجلال", "transliteration": "dhu al-jalaal" },
+        { "english": "The Owner of Bounty", "arabic": "ذو الفضل", "transliteration": "dhu al-fadl" },
+        { "english": "The Acceptor of Repentance", "arabic": "تواب", "transliteration": "tawwab" },
+        { "english": "The Avenger", "arabic": "المنتقم", "transliteration": "al-muntaqim" }
+      ]
+    },
+    {
+      "name": "School Items",
+      "arabic_name": "أدوات المدرسة",
+      "lessons": [
+        { "english": "Book", "arabic": "كتاب", "transliteration": "kitaab" },
+        { "english": "Pen", "arabic": "قلم", "transliteration": "qalam" },
+        { "english": "Pencil", "arabic": "قلم رصاص", "transliteration": "qalam rasaas" },
+        { "english": "Bag", "arabic": "حقيبة", "transliteration": "haqeebah" },
+        { "english": "Table", "arabic": "طاولة", "transliteration": "taawilah" },
+        { "english": "Chair", "arabic": "كرسي", "transliteration": "kursi" },
+        { "english": "Board", "arabic": "سبورة", "transliteration": "saboorah" },
+        { "english": "Eraser", "arabic": "ممحاة", "transliteration": "mimhaah" },
+        { "english": "Notebook", "arabic": "دفتر", "transliteration": "daftar" },
+        { "english": "Ruler", "arabic": "مسطرة", "transliteration": "mistarah" }
+      ]
+    },
+    {
+      "name": "20-Letter Words",
+      "arabic_name": "كلمات من عشرين حرفاً",
+      "lessons": [
+        { "english": "The Watcher", "arabic": "الرقيب", "transliteration": "ar-raqeeb" },
+        { "english": "The Listener", "arabic": "السميع", "transliteration": "as-samee'" },
+        { "english": "The Seer", "arabic": "البصير", "transliteration": "al-baseer" },
+        { "english": "The Judge", "arabic": "الحكم", "transliteration": "al-hakam" },
+        { "english": "The Just", "arabic": "العدل", "transliteration": "al-adl" },
+        { "english": "The Subtle", "arabic": "اللطيف", "transliteration": "al-lateef" },
+        { "english": "The Aware", "arabic": "الخبير", "transliteration": "al-khabeer" }
+      ]
+    },
+    {
+      "name": "Animals",
+      "arabic_name": "الحيوانات",
+      "lessons": [
+        { "english": "Cat", "arabic": "قطة", "transliteration": "qittah" },
+        { "english": "Dog", "arabic": "كلب", "transliteration": "kalb" },
+        { "english": "Cow", "arabic": "بقرة", "transliteration": "baqarah" },
+        { "english": "Sheep", "arabic": "خروف", "transliteration": "kharuf" },
+        { "english": "Horse", "arabic": "حصان", "transliteration": "hisan" },
+        { "english": "Donkey", "arabic": "حمار", "transliteration": "himar" },
+        { "english": "Lion", "arabic": "أسد", "transliteration": "asad" },
+        { "english": "Elephant", "arabic": "فيل", "transliteration": "feel" },
+        { "english": "Bird", "arabic": "طائر", "transliteration": "taa'ir" },
+        { "english": "Fish", "arabic": "سمك", "transliteration": "samak" }
+      ]
+    }
+  ]
+}
